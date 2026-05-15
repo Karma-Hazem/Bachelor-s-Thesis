@@ -1,1 +1,2 @@
 # Bachelor-s-Thesis
+This repository contains the implementation and documentation of my contribution to our bachelor graduation project on Portfolio Optimization- Quantifying Investors’ Risk Tolerance. My work focuses on analyzing investor financial and behavioral data to classify investors into three risk tolerance categories: Conservative, Moderate, and Aggressive. The project applies data analysis and machine learning techniques.
